@@ -4,6 +4,8 @@ Image and video classification practice with OpenCV.
 **Frameworks**: DNN, Caffe, Darknet  
 **Libraries/Modules**: cmake, numpy, OpenCV's config, and dlib  
 **Algorithms**: YOLOv3  
+<br>
+> Note: still in the process of adding yolov3 weights and caffe model
 
 <br>
 <div id="btt"></div>
