@@ -5,7 +5,6 @@ Image and video classification practice with OpenCV.
 **Libraries/Modules**: cmake, numpy, OpenCV's config, and dlib  
 **Algorithms**: YOLOv3  
 <br>
-> Note: still in the process of adding yolov3 weights and video files
 
 <br>
 <div id="btt"></div>
