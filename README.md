@@ -5,6 +5,7 @@ Image and video classification practice with OpenCV.
 **Libraries/Modules**: cmake, numpy, OpenCV's config, and dlib  
 **Algorithms**: YOLOv3  
 <br>
+> Note: Check Reference Videos and Model config Release
 
 <br>
 <div id="btt"></div>
